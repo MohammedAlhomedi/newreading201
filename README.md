@@ -8,4 +8,7 @@
 | class-04 |[ HTML Links, CSS Layout, JS Functions](read-04.md) |
 | class-05 | [ HTML Images; CSS Color & Text ](read-05.md) |
 | class-06 | [ JS Object Literals,The DOM ](read-06.md) |
+<<<<<<< HEAD
 | class-07| [ HTML Tables; JS Constructor Functions ](read-07.md) |
+=======
+>>>>>>> 7162f517104fbbd5a3d7a8c5711f99627fcc805b
