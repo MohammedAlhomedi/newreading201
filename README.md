@@ -11,3 +11,4 @@
 | class-07| [ HTML Tables; JS Constructor Functions ](read-07.md) |
 | class-08| [ More CSS Layout ](read-08.md)|
 | class-09| [ Forms and Events](read-09.md)|
+| class-10| [ JS Debugging](read-10.md)|
