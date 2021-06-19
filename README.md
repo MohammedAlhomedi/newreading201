@@ -12,4 +12,4 @@
 | class-08| [ More CSS Layout ](read-08.md)|
 | class-09| [ Forms and Events](read-09.md)|
 | class-10| [ JS Debugging](read-10.md)|
-| class-11| [ JS Debugging](read-11.md)|
+| class-11| [ Assorted Topics  /  Audio, Video, Images](read-11.md)|
