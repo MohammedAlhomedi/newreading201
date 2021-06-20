@@ -13,3 +13,4 @@
 | class-09| [ Forms and Events](read-09.md)|
 | class-10| [ JS Debugging](read-10.md)|
 | class-11| [ Assorted Topics  /  Audio, Video, Images](read-11.md)|
+| class-12| [Docs for the HTML <canvas> Element & Chart.js](read-12.md)|
