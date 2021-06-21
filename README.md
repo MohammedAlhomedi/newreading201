@@ -14,3 +14,4 @@
 | class-10| [ JS Debugging](read-10.md)|
 | class-11| [ Assorted Topics  /  Audio, Video, Images](read-11.md)|
 | class-12| [ Docs for the HTML Element & Chart js](read-12.md)|
+| class-13| [ Local Storage](read-13.md)|
